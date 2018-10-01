@@ -5,4 +5,4 @@ Learn use git
 
 20181001 git
 
-Create a new branch is quick
+Create a new branch is quick and simple.
