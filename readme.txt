@@ -4,3 +4,5 @@ Git has a mutable index called stage
 Learn use git
 
 20181001 git
+
+Create a new branch is quick
